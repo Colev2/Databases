@@ -122,8 +122,8 @@ This project demonstrates:
 - Relational database modeling
 - Entity-Relationship design
 - SQL implementation
-- Complex query development
+- Query development
 - View creation
-- Data integrity enforcement
+
 
 
