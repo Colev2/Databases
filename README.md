@@ -1,2 +1,2 @@
 # Databases
-Team Assignment for Databases Course at ECE AUTH 
+This project is a Team Assignment for Databases Course at ECE AUTH 
